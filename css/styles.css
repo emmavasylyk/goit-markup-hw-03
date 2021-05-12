@@ -40,13 +40,13 @@ img {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  outline: 2px solid tomato;
+  /*outline: 2px solid tomato;*/
 }
 
 .page-header {
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  border-right-color: var(--header-border);
+  border-bottom-color: var(--header-border);
 }
 
 /*============ШАПКА САЙТА============*/
@@ -218,7 +218,6 @@ img {
 .work {
   padding-top: 47px;
   padding-bottom: 94px;
-  background-color: cyan;
 }
 
 .work .list {
