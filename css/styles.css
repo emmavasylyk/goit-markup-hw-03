@@ -148,7 +148,7 @@ img {
 .hero-title {
   margin: 0 auto;
   width: 696px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 
   color: var(--primary-white-color);
 
